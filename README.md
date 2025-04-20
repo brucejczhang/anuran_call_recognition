@@ -4,6 +4,5 @@ This is a repository that includes the output classifiers (.tflite) from trainin
 
 - 'NA_East_output.tflite' is the classifier program for recognizing eastern North American species
 - 'Canada_output.tflite' is the classifier program for recognizing Canadian species
-- 'Training_Audio' includes all the training data that was used for all 49 species (both eastern North America and Canada)
 
 The classifiers can be downloaded and used in the BirdNet Analyzer GUI program for anuran call recognition purposes. 
